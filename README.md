@@ -7,7 +7,7 @@
 - layout=compact
 - theme=white
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:FFFFFF,100:b678c4&height=300&section=header&text=Language&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:121481,100:b678c4&height=300&section=header&text=Language&fontSize=90)
 Things I code with Stack skills
 Languages & Code Rules
 MCU
