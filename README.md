@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BChanGod
 - Making Page
-Things I code with
-Stack skills
+Things I code with Stack skills
 Languages & Code Rules	   
 MCU	  
 AP	  
