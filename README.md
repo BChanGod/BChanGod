@@ -1,23 +1,20 @@
 - username=[BChanGod]
 - 👋 Hi, I’m @BChanGod
-- Making Page
-
-
-- langs_count=[5]
-- layout=compact
-- theme=white
-
+##
+  
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:121481,100:b678c4&height=300&section=header&text=Language&fontSize=90)
-Things I code with Stack skills
-Languages & Code Rules
-MCU
-AP
-IDE
-Server & DB
-Version Control & Collaboration Tools	   
-OS	  
-Platform & Library & Package	 Firebase
-
+## My Stack skills
+- Languages & Code Rules : ![java](https://img.shields.io/badge/java-2F2625?style=for-the-badge&logo=coffeescript) ![Python](https://img.shields.io/badge/Python-ECD53F?style=for-the-badge&logo=Python&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=Cplusplus) ![C](https://img.shields.io/badge/C-033963?style=for-the-badge&logo=C) ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github)
+- MCU
+- AP
+- IDE
+- Server & DB
+- Version Control & Collaboration Tools	   
+- OS	  
+- Platform & Library & Package
+<div align="center">
+  
+# <img src="./baekjun.png" alt="Baekjun" width="27" height="27"/>Baekjun & Github <img src="./github.svg" alt="Github" width="27" height="27"/>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lbc998)](https://solved.ac/lbc998/)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BChanGod)](https://github.com/BChanGod/github-readme-stats)
