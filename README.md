@@ -1,3 +1,4 @@
+- username=[BChanGod]
 - 👋 Hi, I’m @BChanGod
 - Making Page
 Things I code with Stack skills
@@ -9,6 +10,10 @@ Server & DB
 Version Control & Collaboration Tools	   
 OS	  
 Platform & Library & Package	 Firebase
+
+- langs_count=[5]
+- layout=compact
+- theme=white
 
 <!---
 BChanGod/BChanGod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
