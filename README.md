@@ -22,7 +22,7 @@
 | MCU-KIT를 활용한 헬스 케어 시스템 | https://github.com/BChanGod/HealthCareSystem |
 
 ## Contact
-<a href="mailto:dlqudcks9541@naver.com?"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
+<a href="mailto:dlqudcks9541@naver.com?" target="_blank"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
 <a href="mailto:lbc9541@gmail.com?"><img src="https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/BChanGod" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 
