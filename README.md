@@ -14,7 +14,7 @@
 ## Project
 | 제목 | 주소 |
 | --- | --- |
-| 스마트 세탁기 : 자동 세제 조절 시스템 | https://www.notion.so/ByungChan-Lee-e56109ff9be24947830d10ec8d29729e?p=f4586baebf8f495f9e3340e4882bf061&pm=c |
+| 스마트 세탁기 : 자동 세제 조절 시스템 | https://grandiose-pan-4be.notion.site/f4586baebf8f495f9e3340e4882bf061?pvs=4 |
 | AVR을 활용한 가정용 세탁기 | https://github.com/BChanGod/AVR_WashingMachine |
 | tangramplay AI와 OpenCV를 활용한 칠교 놀이 |  |
 | TrafficSign AI와 OpenCV를 활용한 표지판 인식 및 속도 제어 |  |
