@@ -9,6 +9,7 @@
 | OS | ![Windows10](https://img.shields.io/badge/Windows10-FFFFEC?style=for-the-badge&logo=Windows10&logoColor=blue) ![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white) |
 | Board & MCU | ![ATmega128a](https://img.shields.io/badge/ATmega128a-C61C3E?style=for-the-badge&logo=ATmega128a&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/raspberrypi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) ![Jetson nano](https://img.shields.io/badge/JetsonNano-76B900?style=for-the-badge&logo=nvidia&logoColor=white) ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)|
 | DB | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white) ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white) |
+| Other Skill | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white) ![androidstudio](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) |
 
 ## Project
 | | |
@@ -17,6 +18,9 @@
 | | |
 | | |
 | | |
+
+## Connect me
+
 
 <div align="center">
   
