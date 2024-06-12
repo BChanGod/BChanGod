@@ -24,7 +24,7 @@
 ## Connect me
 <a href="mailto:dlqudcks9541@naver.com?"><img src="https://img.shields.io/badge/NAVER-03C75A?style=for-the-badge&logo=NAVER&logoColor=FFFFFF"/></a>
 <a href="mailto:lbc9541@gmail.com?"><img src="https://img.shields.io/badge/gmail-EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="mailto:BChanGod?"><img src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:@BChanGod?"><img src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <div align="center">
   
 # <img src="./baekjun.png" alt="Baekjun" width="27" height="27"/> Baekjun & Github <img src="./github.svg" alt="Github" width="27" height="27"/>
