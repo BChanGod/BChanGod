@@ -12,12 +12,14 @@
 | Other Skill | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white) ![androidstudio](https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white) |
 
 ## Project
-| | |
+| 제목 | 주소 |
 | --- | --- |
-| | |
-| | |
-| | |
-| | |
+| 스마트 세탁기 : 자동 세제 조절 시스템 | https://www.notion.so/ByungChan-Lee-e56109ff9be24947830d10ec8d29729e?p=f4586baebf8f495f9e3340e4882bf061&pm=c |
+| AVR을 활용한 가정용 세탁기 | https://github.com/BChanGod/AVR_WashingMachine |
+| tangramplay AI와 OpenCV를 활용한 칠교 놀이 |  |
+| TrafficSign AI와 OpenCV를 활용한 표지판 인식 및 속도 제어 |  |
+| AI를 활용한 산불 감지 수막 시스템 | https://github.com/BChanGod/2024_ICT_Project |
+| MCU-KIT를 활용한 헬스 케어 시스템 | https://github.com/BChanGod/HealthCareSystem |
 
 ## Connect me
 
